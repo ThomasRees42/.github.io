@@ -3,8 +3,8 @@ layout: page
 title: _about
 permalink: /about
 ---
-i made this as a space to develop my thought and actively engage with theory / philosophy
-all opinions are in flux, all topics are permissable
-i am by no means an expert
+i created this space to actively develop my thought and improve my writing
 
-open to submissions_
+all opinions stated are in flux, i am by no means an expert
+
+open to email submissions
